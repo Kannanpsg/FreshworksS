@@ -1,0 +1,243 @@
+.Top-container {
+  background-image: linear-gradient(
+    to right top,
+    #ede8f4,
+    #d9bef8,
+    #c791f7,
+    #b661f3,
+    #a712eb
+  );
+}
+
+.containerr {
+  margin: 0 auto;
+}
+
+.headerpara1 {
+  font-family: neue-haas-grotesk-text, Helvetica, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+  line-height: 50px;
+  text-align: center;
+  margin-bottom: 20px;
+  margin: 10px;
+  font-weight: 300;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.Secondheader {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+/* @media screen and (max-width: 320px) {
+  .top-class {
+    text-align: left;
+    margin: -30px;
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 320px) {
+  .top-class {
+    text-align: right;
+    margin: -30px;
+    font-size: 30px;
+  }
+}
+ */
+
+.header {
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+@media (max-width: 500px) {
+  .header {
+    font-size: 40px;
+  }
+}
+
+.headerpara {
+  font-size: 24px;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+/* 
+@media screen and (max-width: 320px) {
+  .headerpara {
+    font-size: 16px;
+    margin: -30px;
+    margin-top: 50px;
+    width: 300px;
+  }
+}
+ */
+/* @media screen and (max-width: 320px) {
+  .buttonmodule {
+    margin-top: 80px;
+    margin: -50px;
+  }
+} */
+
+.imagela {
+  height: 580px;
+}
+
+/* @media screen and (max-width: 320px) {
+  .imagela {
+    height: 250px;
+  }
+}
+ */
+.p-3 bg-White {
+  margin: 70px;
+}
+
+.Secondcontainer1 {
+  margin: 100px;
+  text-align: center;
+}
+
+.leftalignimg {
+  height: 300px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.rightalignimg {
+  height: 300px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.headerclasss {
+  font-weight: lighter;
+}
+
+.headerclasss1 {
+  font-weight: lighter;
+}
+
+.Secondcontainer {
+  text-align: center;
+}
+
+.thirdheader {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.thirdheaderpara1 {
+  font-size: 22px;
+}
+
+.thirdcontainer1 {
+  text-align: center;
+}
+
+.thirdheaderpara2 {
+  font-size: 22px;
+}
+
+.notebook {
+  height: 100px;
+}
+
+.mobile {
+  height: 100px;
+}
+
+.clockimage {
+  height: 100px;
+}
+
+.diamondimage {
+  height: 100px;
+}
+
+.parabutton4 {
+  color: red;
+}
+
+.parabutton3 {
+  color: red;
+}
+
+.parabutton2 {
+  color: red;
+}
+
+.parabutton1 {
+  color: red;
+}
+
+.thirdcontainer {
+  color: aliceblue;
+  background-image: linear-gradient(
+    to right top,
+    #1c1921,
+    #1b1525,
+    #191129,
+    #180b2c,
+    #160430
+  );
+}
+
+.headeralignment {
+  padding: 100px;
+  margin-top: 50px;
+}
+
+.freshworkicon {
+  margin-left: 100px;
+  margin-top: 15px;
+}
+
+.navbar-brand {
+  font-size: 24px !important;
+}
+
+/*   margin: 0 auto 20px;
+  width: 50%;
+  color: #0b1320;
+  border-color: #0b1320;
+  padding: 9px 29px;
+  font-size: .875rem;
+  background: 0 0;
+  border-style: solid;
+  border-width: 1px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: inline-block;
+  max-width: 450px;
+  font-weight: 600;
+  text-decoration: none;
+  line-height: 1.75;
+  margin-left: auto;
+  margin-top: 0; */
+
+/* 
+.headerpara1 {
+    font-size: 22px;
+  }
+  .Secondheader {
+    font-size: 34px;
+    font-weight: bold;
+  } */
+
+/* .thirdcontainer
+{
+background-color: aqua;
+} */
